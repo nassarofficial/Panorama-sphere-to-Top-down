@@ -1,5 +1,5 @@
-# Panorama-sphere-to-Top-down
-Convert panoramic spheres to top-down view. This is a C++ implementation of the MATLAB implementation of "3D Geometry for Panorama" by Jianxiong Xiao.
+# Panoramic Spheres to Top-Down View Image
+Convert panoramic spheres to top-down view image. This is a C++ implementation of the MATLAB implementation of "3D Geometry for Panorama" by Jianxiong Xiao.
 
 Citation:
 J. Xiao, K. A. Ehinger, A. Oliva and A. Torralba.
